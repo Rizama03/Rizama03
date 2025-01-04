@@ -3,7 +3,7 @@
 
 ###
 
-- 🧠 I have strong interests in Machine Learning and Robotics.
+- 🧠 I have strong interests in Machine Learning, Robotics, and Research and Development.
 - 🤝 I'm eager to collaborate on projects and contribute to open-source initiatives that will sharpen my skills and expand my experience.
 - 💬 How to contact me: [LinkedIn](https://www.linkedin.com/in/rizama-victor-b63266226/), [X](https://x.com/RizamaVictor) & [Email](mailto:victorrizama@gmail.com)
 
