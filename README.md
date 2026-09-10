@@ -3,7 +3,7 @@
 
 ###
 
-- 🧠 My interests are in Computer Vision, Machine Learning, and Robotics.
+- 🧠 My interests are in Computer Vision, Autonomous Vehicles, Intelligent Transportation Systems (ITS) and Robotics.
 - 🤝 I'm open to collaborate on projects and contribute to open-source initiatives for a shared skills development and experience.
 - 💬 How to contact me: [LinkedIn](https://www.linkedin.com/in/rizama-victor-b63266226/), [X](https://x.com/RizamaVictor) & [Email](mailto:victorrizama@gmail.com)
 
