@@ -8,8 +8,6 @@
 - 💬 How to contact me: [LinkedIn](https://www.linkedin.com/in/rizama-victor-b63266226/), [X](https://x.com/RizamaVictor) & [Email](mailto:victorrizama@gmail.com)
 
 
-###
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizama-Victor&langs_count=5&theme=tokyonight)]()
 
 ###
 
